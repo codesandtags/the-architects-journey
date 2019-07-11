@@ -13,4 +13,4 @@ This repository has been create with the goal to add documentation in my softwar
 * [Hexagonal Architecture by Javier Vélez](http://www.javiervelezreyes.com/ni-nueva-ni-arquitectura-ni-hexagonal/)
 
 ## UI/UX
-* TODO
+* [UI / UX Design Patterns](http://ui-patterns.com/patterns)
