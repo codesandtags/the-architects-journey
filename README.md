@@ -4,6 +4,7 @@ This repository has been create with the goal to add documentation in my softwar
 ## Global Design Principles and Design Patterns
 * [Design principles and patterns by Robert C. Marting](https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf)
 * [Design Patterns Ebook](https://sourcemaking.com/design_patterns)
+* [TDD](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
 
 ## Front-End
 
