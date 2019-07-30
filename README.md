@@ -18,3 +18,6 @@ This repository has been create with the goal to add documentation in my softwar
 
 ## UI/UX
 * [UI / UX Design Patterns](http://ui-patterns.com/patterns)
+
+## Evidences
+* [Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
