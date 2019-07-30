@@ -19,5 +19,6 @@ This repository has been create with the goal to add documentation in my softwar
 ## UI/UX
 * [UI / UX Design Patterns](http://ui-patterns.com/patterns)
 
-## Evidences
+## Programming Paradigms
 * [Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
+* [OOP hard criticism](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
