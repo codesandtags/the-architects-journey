@@ -22,3 +22,8 @@ This repository has been create with the goal to add documentation in my softwar
 ## Programming Paradigms
 * [Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 * [OOP hard criticism](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
+
+
+# Books & Articles
+* [Books in software Architecture](https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce)
+* [Medium articles about architecture](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
