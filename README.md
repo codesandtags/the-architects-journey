@@ -6,6 +6,8 @@ This repository has been create with the goal to add documentation in my softwar
 * [Design Patterns Ebook](https://sourcemaking.com/design_patterns)
 * [TDD](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
 * [Computer Science Destilled](https://sourcemaking.com/computer-science-distilled)
+* [Role and responsibilities for an architect](https://syndicode.com/2017/10/24/the-role-skills-and-duties-of-a-software-architect/)
+* [Software Architecture Quality Attributes](https://syndicode.com/2018/05/03/12-software-architecture-quality-attributes/)
 
 ## Front-End
 
