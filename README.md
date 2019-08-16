@@ -13,6 +13,7 @@ This repository has been create with the goal to add documentation in my softwar
 
 ### Accessibility / WCAG / ARIA
 * [Design Patterns for accessibility with widgets](https://www.w3.org/TR/wai-aria-practices/#aria_ex)
+* [JavaScript and Node Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ## Back-End
 * [Hexagonal Architecture by Javier Vélez](http://www.javiervelezreyes.com/ni-nueva-ni-arquitectura-ni-hexagonal/)
