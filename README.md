@@ -8,6 +8,7 @@ This repository has been create with the goal to add documentation in my softwar
 * [Computer Science Destilled](https://sourcemaking.com/computer-science-distilled)
 * [Role and responsibilities for an architect](https://syndicode.com/2017/10/24/the-role-skills-and-duties-of-a-software-architect/)
 * [Software Architecture Quality Attributes](https://syndicode.com/2018/05/03/12-software-architecture-quality-attributes/)
+* [Feature Toggle / Flag](http://featureflags.io/)
 
 ## Front-End
 
