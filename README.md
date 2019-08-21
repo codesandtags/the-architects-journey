@@ -13,6 +13,10 @@ This repository has been create with the goal to add documentation in my softwar
 
 ## Front-End
 
+
+### JavaScript
+* [Understanding the coercion in JavaScript](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
+
 ### Accessibility / WCAG / ARIA
 * [Design Patterns for accessibility with widgets](https://www.w3.org/TR/wai-aria-practices/#aria_ex)
 * [JavaScript and Node Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
