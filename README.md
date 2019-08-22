@@ -13,6 +13,8 @@ This repository has been create with the goal to add documentation in my softwar
 
 ## Front-End
 
+### Micro Front-End
+* [https://martinfowler.com/articles/micro-frontends.html](Micro Front-Ends approach)
 
 ### JavaScript
 * [Understanding the coercion in JavaScript](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
