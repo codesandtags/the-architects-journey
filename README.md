@@ -27,6 +27,7 @@ This repository has been create with the goal to add documentation in my softwar
 ## Back-End
 * [Hexagonal Architecture by Javier Vélez](http://www.javiervelezreyes.com/ni-nueva-ni-arquitectura-ni-hexagonal/)
 * [MicroServices Patterns](https://microservices.io/index.html)
+* [Back For Front-End BFF](https://samnewman.io/patterns/architectural/bff/)
 
 ## UI/UX
 * [UI / UX Design Patterns](http://ui-patterns.com/patterns)
