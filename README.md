@@ -18,6 +18,7 @@ This repository has been create with the goal to add documentation in my softwar
 
 ### JavaScript
 * [Understanding the coercion in JavaScript](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
+* [Curry and function composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 
 ### Accessibility / WCAG / ARIA
 * [Design Patterns for accessibility with widgets](https://www.w3.org/TR/wai-aria-practices/#aria_ex)
