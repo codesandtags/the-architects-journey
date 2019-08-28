@@ -22,6 +22,7 @@ This repository has been create with the goal to add documentation in my softwar
 * [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications)
 * [JavaScript Design Patterns - Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Module Pattern and module systems](https://auth0.com/blog/javascript-module-systems-showdown/)
+* [JavaScript Specifications](https://tc39.es/)
 
 ### Accessibility / WCAG / ARIA
 * [Design Patterns for accessibility with widgets](https://www.w3.org/TR/wai-aria-practices/#aria_ex)
