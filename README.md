@@ -1,7 +1,10 @@
-# Design patterns documentation
+# The architects journey
+
 This repository has been create with the goal to add documentation in my software architecture journey and design patterns knowledge throught Front-End, Back-End and UI/UX.
 
+
 ## Global Design Principles and Design Patterns
+
 * [Design principles and patterns by Robert C. Marting](https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf)
 * [Design Patterns Ebook](https://sourcemaking.com/design_patterns)
 * [TDD](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
@@ -13,10 +16,16 @@ This repository has been create with the goal to add documentation in my softwar
 
 ## Front-End
 
-### Micro Front-End
-* [Micro Front-Ends approach](https://martinfowler.com/articles/micro-frontends.html)
+### Front-End Architecture
+* [Scalable Front-End Architecture Fundamentals](https://blog.codeminer42.com/scalable-frontend-1-architecture-9b80a16b8ec7)
+* [Scalable Front-End Architecture Common Patterns](https://blog.codeminer42.com/scalable-frontend-2-common-patterns-d2f28aef0714)
+* [Scalable Front-End Architecture The state layers](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c)
 * [What I expect from a Front-End Architecture](https://medium.com/statuscode/what-i-expect-from-a-front-end-architecture-31b9be4498af)
 * [Concerns of Front-End Architecture](https://benmccormick.org/2019/01/07/the-concerns-of-fe-architecture/)
+
+
+### Micro Front-End
+* [Micro Front-Ends approach](https://martinfowler.com/articles/micro-frontends.html)
 
 ### JavaScript
 * [Understanding the coercion in JavaScript](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
