@@ -15,6 +15,8 @@ This repository has been create with the goal to add documentation in my softwar
 
 ### Micro Front-End
 * [Micro Front-Ends approach](https://martinfowler.com/articles/micro-frontends.html)
+* [What I expect from a Front-End Architecture](https://medium.com/statuscode/what-i-expect-from-a-front-end-architecture-31b9be4498af)
+* [Concerns of Front-End Architecture](https://benmccormick.org/2019/01/07/the-concerns-of-fe-architecture/)
 
 ### JavaScript
 * [Understanding the coercion in JavaScript](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
