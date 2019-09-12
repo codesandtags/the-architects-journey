@@ -22,6 +22,7 @@ This repository has been create with the goal to add documentation in my softwar
 * [Scalable Front-End Architecture The state layers](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c)
 * [What I expect from a Front-End Architecture](https://medium.com/statuscode/what-i-expect-from-a-front-end-architecture-31b9be4498af)
 * [Concerns of Front-End Architecture](https://benmccormick.org/2019/01/07/the-concerns-of-fe-architecture/)
+* [Best practice in React Architecture](https://www.sitepoint.com/react-architecture-best-practices/)
 
 
 ### Micro Front-End
