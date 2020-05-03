@@ -29,6 +29,7 @@ This repository has been create with the goal to add documentation in my softwar
 * [Concerns of Front-End Architecture](https://benmccormick.org/2019/01/07/the-concerns-of-fe-architecture/)
 * [Best practice in React Architecture](https://www.sitepoint.com/react-architecture-best-practices/)
 * [Create a React boilerplate](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/)
+* [Front-End Resources based on ZTM](https://zerotomastery.io/resources/)
 
 
 ### Micro Front-End
