@@ -30,6 +30,7 @@ This repository has been create with the goal to add documentation in my softwar
 * [Best practice in React Architecture](https://www.sitepoint.com/react-architecture-best-practices/)
 * [Create a React boilerplate](https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/)
 * [Front-End Resources based on ZTM](https://zerotomastery.io/resources/)
+* [The modern tutorial for JavaScript](https://javascript.info/) and [Watch and Code](https://watchandcode.com/p/practical-javascript)
 
 
 ### Micro Front-End
