@@ -28,21 +28,11 @@ Estos son algunos anti patrones a tener en cuenta.
 
 **D = Duplication:**  Duplicidad de código. Algo solucionable si aplicamos el Principio de Responsabilidad Única de SOLID e inyección de dependencias.
 
-* ### [Single Responsibility Principle (SRP)](SRP.MD)
-
-## Open / Closed Principle
----
-
-## Liskov Sustitution Principle
----
-
-## Interface Segregation Principle
----
-
-## Dependency Inversion Principle
----
-
-
+* ### [Single Responsibility Principle (SRP)](SRP.md)
+* ### [Open / Closed Principle (OCP)](OCP.md)
+* ### [Liskov Sustitution Principle](OCP.md)
+* ### [Interface Segregation Principle](OCP.md)
+* ### [Dependency Inversion Principle](OCP.md)
 
 ### Resources
 * https://pro.codely.tv/library/principios-solid-aplicados/
