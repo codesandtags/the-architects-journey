@@ -24,15 +24,15 @@ Estos son algunos anti patrones a tener en cuenta.
 
 **P = Premature Optimization:** Anticiparnos a los requisitos de nuestro software desarrollando abstracciones innecesarias que añaden complejidad.
 
-**I = Indescriptive Naming: Nomenclatura indescriptiva tanto a nivel de clases, como variables o atributos.
+**I = Indescriptive Naming:** Nomenclatura indescriptiva tanto a nivel de clases, como variables o atributos.
 
 **D = Duplication:**  Duplicidad de código. Algo solucionable si aplicamos el Principio de Responsabilidad Única de SOLID e inyección de dependencias.
 
 * ### [Single Responsibility Principle (SRP)](SRP.md)
 * ### [Open / Closed Principle (OCP)](OCP.md)
-* ### [Liskov Sustitution Principle](OCP.md)
-* ### [Interface Segregation Principle](OCP.md)
-* ### [Dependency Inversion Principle](OCP.md)
+* ### [Liskov Sustitution Principle](LSP.md)
+* ### [Interface Segregation Principle](ISP.md)
+* ### [Dependency Inversion Principle](DIP.md)
 
 ### Resources
 * https://pro.codely.tv/library/principios-solid-aplicados/
