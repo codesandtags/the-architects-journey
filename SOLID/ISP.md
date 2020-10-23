@@ -1,4 +1,4 @@
-# Interface Segregation Principle (OCP)
+# Interface Segregation Principle (ISP)
 
 ### Concepto
 * Ningún cliente debería verse forzado a depender de métodos que no usa.
