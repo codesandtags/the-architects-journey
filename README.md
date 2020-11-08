@@ -14,6 +14,196 @@ This repository has been create with the goal to add documentation in my softwar
 * [Feature Toggle / Flag](http://featureflags.io/)
 * [Clean Code Summary Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
+
+# [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+## Availability
+* Deployment stamps
+* Geodes
+* Health Endpoint Monitoring
+* Queue Based Load Levering
+* Throttling 
+
+## Data Management
+* Cache-Aside
+* CQRS
+* Event Sourcing
+* Index Table
+* Materialized View
+* Sharding
+* Static Content Hosting
+* Valet Key
+
+## Design and Implementation
+* Ambassador
+* Anti Corruption Layer
+* CQRS
+* Back End for Front-end
+* Compute Resource Consolidation
+* External Configuration Store
+* Gateway Aggregation
+* Gateway Offloading
+* Gateway Routing
+* Leader Election
+* Pipes and Filter
+* Sidecar
+* Static Content Hosting
+* Strangler
+
+## Messaging
+* Asynchronous Request-Reply
+* Claim Check
+* Choreography
+* Competing Consumer
+* Pipes and Filter
+* Priority Queue
+* Publisher-Subscriber
+* Queue Based Load Levering
+* Scheduler Agent Supervisor
+* Sequencial Convoy
+
+## Management and Monitoring
+* Ambassador
+* Anti Corruption Layer
+* External Configuration Store
+* Gateway Aggregation
+* Gateway Offloading
+* Gateway Routing
+* Health Endpoint Monitoring
+* Sidecar
+* Strangler
+
+## Performance and Scalability
+* Cache-Aside
+* CQRS
+* Choreography
+* Event Sourcing
+* Geodes
+* Index Table
+* Deployment stamps
+* Materialized View
+* Priority Queue
+* Queue Based Load Levering
+* Sharding
+* Static Content Hosting
+* Throttling 
+
+## Resiliency 
+* Bulkhead
+* Circuit Breaker
+* Compensating Transaction
+* Leader Election
+* Retry
+* Scheduler Agent Supervisor
+* Health Endpoint Monitoring
+* Queue Based Load Levering
+
+## Security
+* Federated Identity
+* Gatekeeper
+* Valet Key
+
+
+# [Principles of Microservices](https://samnewman.io/talks/principles-of-microservices/)
+1. Culture of automation
+2. Hide implementation details
+3. Decentralise all the things
+4. Deploy independently
+5. Isolate Failure
+6. Highly Observable
+7. Modeled around business domain
+
+
+## API Versioning strategies
+* By URL
+* By Query Params
+* By Custom Headers
+* By Content negotiation
+
+# [Microservices Patterns](https://microservices.io/patterns/microservices.html)
+
+## Application Architecture Patterns
+* Monolithic
+* Microservices
+
+## Decomposition
+* Decompose by business capabilities
+* Decompose by subdomain
+* Self-contained service
+* Service per team
+
+## Refactoring to MicroServices
+* Strangler application
+* Anticorruption Layer
+
+## Data Management
+* Database per service
+* Shared database
+* SAGA
+* API Composition
+* CQRS
+* Domain Event
+* Event Sourcing
+
+## Transactional Messaging
+* Transactional Outbox
+* Transactional log tailing
+* Polling publisher
+
+## Testing
+* Service component Test
+* Service Integration Contract
+* Consumer side contract test
+
+## Deployment Patterns
+* Multiple Service Instances
+* Single Service Instance per Host
+* Service Instance per VM
+* Service per Container
+* Serverless Deployment
+* Service Deployment Platform
+
+## Cross cutting concern
+* MicroService Chassis
+* Externalized configuration
+
+## Communication Style
+* Remote Procedure Invocation
+* Messaging
+* Domain Specific Protocol
+* Idempotent Consumer
+
+## External API
+* API Gateway
+* BackEnd for Front-end
+
+## Service Discovery
+* Client side discovery
+* Server side discovery
+* Service registry
+* Self registration
+* Third party registration
+
+## Reliability
+* Circuit Breaker
+
+## Security
+* Access Token
+
+## Observability
+* Log Aggregation
+* Application Metrics
+* Audit Logging
+* Distributed Tracing
+* Exception Tracking
+* Health check API
+* Log deployment and changes
+
+## UI Patterns
+* Server Side UI composition
+* Client Side UI composition
+
+
 ## DevOps
 
 * [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
