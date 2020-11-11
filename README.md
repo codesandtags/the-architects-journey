@@ -17,14 +17,14 @@ This repository has been create with the goal to add documentation in my softwar
 
 # [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
-## Availability
+## [Availability](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/availability)
 * Deployment stamps
 * Geodes
 * Health Endpoint Monitoring
 * Queue Based Load Levering
 * Throttling 
 
-## Data Management
+## [Data Management](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/data-management)
 * Cache-Aside
 * CQRS
 * Event Sourcing
@@ -34,7 +34,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Static Content Hosting
 * Valet Key
 
-## Design and Implementation
+## [Design and Implementation](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation)
 * Ambassador
 * Anti Corruption Layer
 * CQRS
@@ -50,7 +50,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Static Content Hosting
 * Strangler
 
-## Messaging
+## [Messaging](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging)
 * Asynchronous Request-Reply
 * Claim Check
 * Choreography
@@ -62,7 +62,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Scheduler Agent Supervisor
 * Sequencial Convoy
 
-## Management and Monitoring
+## [Management and Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/management-monitoring)
 * Ambassador
 * Anti Corruption Layer
 * External Configuration Store
@@ -73,7 +73,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Sidecar
 * Strangler
 
-## Performance and Scalability
+## [Performance and Scalability](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/performance-scalability)
 * Cache-Aside
 * CQRS
 * Choreography
@@ -88,7 +88,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Static Content Hosting
 * Throttling 
 
-## Resiliency 
+## [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
 * Bulkhead
 * Circuit Breaker
 * Compensating Transaction
@@ -98,7 +98,7 @@ This repository has been create with the goal to add documentation in my softwar
 * Health Endpoint Monitoring
 * Queue Based Load Levering
 
-## Security
+## [Security](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/security)
 * Federated Identity
 * Gatekeeper
 * Valet Key
